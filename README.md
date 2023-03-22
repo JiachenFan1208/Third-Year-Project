@@ -7,6 +7,8 @@ This project aims to build the model which can extract ADR enitity from text, an
 
 main file: ```AdverseDrugReactionNER.ipynb```
 
+This code can run properly on ```Colab```, all the tools that needs to download are listed at the top of the file ```AdverseDrugReactionNER.ipynb```. Please download additional packages as needed.
+
 # Training
 Our model is a pretrained BART (Bidirectional and Auto-Regressive Transformers）model.
 
